@@ -1,8 +1,7 @@
 ### Hi there 👋, I'm Mahmud Zaman Bali
 
-- 🖥️ Experienced in .NET Core, TypeScript, React, Docker, Git and many others
+- 💻 Currently working as a Junior Web Developer, utilising .NET Core, React, TypeScript.
 - 🎓 MSc in AI, BSc in Computer Science
-- 🚀 Currently deploying apps to the cloud with streamlined CI/CD pipelines
-- 🏗️ Developed a robust bug tracker app and a dynamic e-commerce website, utilizing cloud technologies
-- 📫 Reach me at mahmudzbali@gmail.com
-- 🌐 Check out my work at [mzbali.com](https://mzbali.com)
+- 🚀 Developed a robust bug tracker app and a dynamic e-commerce website, utilising cloud technologies.
+- 📫 Reach me at [mahmudzbali@gmail.com](mailto:mahmudzbali@gmail.com)
+- 🌐 Check out my work at [mzbali.com](http://mzbali.com)
