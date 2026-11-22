@@ -1,7 +1,5 @@
-### Hi there 👋, I'm Mahmud Zaman Bali
+### Hi, I'm Mahmud Zaman Bali
 
-- 💻 Currently working as a Web Developer, utilising .NET, React, TypeScript, Kubernetes, Azure.
-- 🎓 MSc in AI, BSc in Computer Science
-- 🚀 Developed a robust bug tracker app and a dynamic e-commerce website, utilising cloud technologies.
-- 📫 Reach me at [mahmudzbali@gmail.com](mailto:mahmudzbali@gmail.com)
-- 🌐 Check out my work at [mzbali.com](http://mzbali.com)
+Coder in the UK. Web apps with .NET and React at work, a homelab and too many agents at home. Mostly building [ClipVee](https://github.com/mzbali/ClipVee), [QuietControl](https://github.com/mzbali/quietcontrol), a feed reader and my own [bot team](https://github.com/mzbali/rakazo).
+
+More at [mzbali.com](https://mzbali.com).
