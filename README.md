@@ -1,5 +1,8 @@
-### Hi, I'm Mahmud Bali
+### Hi there 👋, I'm Mahmud Bali
 
-Coder in the UK. Web apps with .NET and React at work, a homelab and too many agents at home. Mostly building [ClipVee](https://github.com/mzbali/ClipVee), [QuietControl](https://github.com/mzbali/quietcontrol), a feed reader and my own [bot team](https://github.com/mzbali/rakazo).
-
-More at [mzbali.com](https://mzbali.com).
+- 💻 Coder in the UK, building web apps with .NET, React and Azure
+- 🏠 Tinkering with a homelab a bit bigger than it needs to be
+- 🛠️ Building my own tools, and tinkering with forks to make them work my way
+- ✍️ Writing about lessons, opinions and the odd disagreement at [mzbali.com](https://mzbali.com/blog)
+- 🎓 MSc in AI, BSc in Computer Science
+- 📫 [mahmudzbali@gmail.com](mailto:mahmudzbali@gmail.com)
